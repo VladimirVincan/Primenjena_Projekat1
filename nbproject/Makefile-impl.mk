@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Primenjena_Projekat1.X
+PROJECTNAME=Primenjena_Projekat1
 
 # Active Configuration
 DEFAULTCONF=default

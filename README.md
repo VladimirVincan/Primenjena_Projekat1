@@ -2,7 +2,7 @@
 Predmetni projekat iz primenjene elektronike. 
 Radili: Vladimir Vincan EE5/2015, Željko Popović EE45/2015, Nikolina Bratić EE65/2015, Jelena Bojanić EE185/2015
 
-Prvi zadatak iz Primenjene elektronike
+Prvi zadatak iz Primenjene elektronike.
 Potrebno je projektovati alarmni sistem za kuću koristeći sledece komponente:
 1) Razvojnu ploču EasyPIC v7 firme Mikroelektronika sa mikrokontrolerom dsPIC30f4013 (integrisanim AD konvertorima) grafičkim ekranom osetljivim na dodir, serijskom RS232 komunikacijom,  i Piezo buzzer-om 
 2) Servo motor SG90. koji može da služi za simulaciju otvaranja vrata  (za krajnji položaj (-90 ili 90 stepeni) uzeti da su vrata zatvorena.)
